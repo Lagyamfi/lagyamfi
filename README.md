@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Lawrence's github stats](https://github-readme-stats.vercel.app/api?username=lagyamfi&show_icons=true&theme=radical)
+![lagyamfi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lagyamfi&theme=vue-dark&hide_border=true)
