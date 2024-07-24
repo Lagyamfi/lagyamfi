@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ![Lawrence's github stats](https://github-readme-stats.vercel.app/api?username=lagyamfi&show_icons=true&theme=radical)
 ![lagyamfi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lagyamfi&theme=vue-dark&hide_border=true)
+![lagyamfi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lagyamfi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
